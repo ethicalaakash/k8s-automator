@@ -18,6 +18,11 @@ A Go-based CLI tool that automates operations on Kubernetes clusters. This tool 
 
 ## Installation
 
+Clone the repo:
+```
+git clone git@github.com:ethicalaakash/k8s-automator.git
+```
+
 Build the CLI tool:
 ```
 make build
